@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="500" height="320"/>
 
-### I'm an autodiadactic developer currently in the middle of: 
+### I'm an autodidactic developer currently in the middle of: 
 - Developing a few Python apps (Data Science Related) 
 - Learning Python, PostgreSQL, and FastAPI stack 
 - Creating an educational 2D-Isometric game
