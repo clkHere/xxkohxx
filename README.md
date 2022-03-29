@@ -1,4 +1,4 @@
-### Hello World! I'm Calvin - or notoriously known as xxk1ng0fh3artzx in the gaming circles 🎮
+## Hello World! I'm Cal. 🎮
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="500" height="320"/>
 
@@ -6,14 +6,14 @@
 - Developing a few Python apps (Data Science Related) 
 - Learning Python, PostgreSQL, and FastAPI stack 
 - Creating an educational 2D-Isometric game
--------------
+
 ### I am always open to connecting and networking! Reach out anytime here: 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][3]
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)][4]
+-------------
 
----
 [1]: http://www.github.com/xxkohxx
 [2]: https://www.linkedin.com/in/expCalvinKing
 [3]: https://www.facebook.com/CalvinKingxSales
