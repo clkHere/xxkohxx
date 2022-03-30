@@ -10,13 +10,11 @@
 ### I am always open to connecting and networking! Reach out anytime here: 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][3]
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)][4]
 -------------
 
 [1]: http://www.github.com/xxkohxx
 [2]: https://www.linkedin.com/in/expCalvinKing
-[3]: https://www.facebook.com/CalvinKingxSales
 [4]: https://discord.com/channels/329876958508875777/674090671279308802/814614859299160135
 
 ### My Programs and Languages:
