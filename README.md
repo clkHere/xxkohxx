@@ -39,7 +39,11 @@
   ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-
+<a href="https://profile.codersrank.io/user/xxkohxx/">
+<img
+     alt="text-card" 
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+/></a>
 
 <!---
 xxkohxx/xxkohxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
