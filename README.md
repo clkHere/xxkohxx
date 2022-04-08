@@ -1,6 +1,6 @@
 ## <code>Hello World! I'm Cal.</code> 🎮
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="500" height="870"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="500" height="500"/>
 
 ### I'm an autodidactic developer currently in the middle of: 
 - Developing a few Python apps (Data Science Related) 
