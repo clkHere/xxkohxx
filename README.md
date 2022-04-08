@@ -20,7 +20,7 @@
 [2]: https://www.linkedin.com/in/expCalvinKing
 [4]: https://discord.com/channels/329876958508875777/674090671279308802/814614859299160135
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="512" height="512"/>
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="412" height="512"/>
 
 
 | Program/Language | Proficiency | Experience |
