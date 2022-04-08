@@ -1,23 +1,28 @@
-## <code>Hello World! I'm Cal.</code> 🎮
+## <code>def Im_Cal(dict):</code> 
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="500" height="500"/>
 
-### I'm an autodidactic developer currently in the middle of: 
+#### I'm an autodidactic developer currently in the middle of: 
 - Developing a few Python apps (Data Science Related) 
 - Learning PowerBI, SQL, FastAPI, and matplotlib
 - Creating an educational 2D-Isometric game
 
-### I am always open to connecting and networking! Reach out anytime here: 
+<hr/>
+
+#### I am always open to connecting and networking! Reach out anytime here: 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![Discord](https://img.shields.io/badge/%3CManCave%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)][4]
+
+
 -------------
 
 [1]: http://www.github.com/xxkohxx
 [2]: https://www.linkedin.com/in/expCalvinKing
 [4]: https://discord.com/channels/329876958508875777/674090671279308802/814614859299160135
 
-### My Programs and Languages:
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="512" height="512"/>
+
+
 | Program/Language | Proficiency | Experience |
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | <p align="center">&bigstar;&bigstar;&bigstar;&bigstar;</p> | 3 Years |
