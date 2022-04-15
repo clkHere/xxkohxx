@@ -1,11 +1,20 @@
-## <code>def Im_Cal(dict):</code> 
+## <code>def Im_Cal(dict):</code>
+```python
+#I'm an autodidactic developer currently in the middle of: 
 
+if 'taking some courses' in dict: 
+  list1 = (['Google Data Analytics', 'IBM Data Science', 'Jovian'])
+  
+if 'actively learning' in dict: 
+  list2 = (['PowerBI', 'Hadoop', 'Spark'])
+  
+if 'in pre-development' in dict: 
+  pre_Dev = 'Educational 2D-Isometric game'
+  
+return list1, list2, pre_Dev
+```
 
-#### I'm an autodidactic developer currently in the middle of: 
-- Developing a few Python apps (Data Science Related) 
-- Learning PowerBI, SQL, FastAPI, and matplotlib
-- Creating an educational 2D-Isometric game
-
+  
 <hr/>
 
 #### I am always open to connecting and networking! Reach out anytime here: 
