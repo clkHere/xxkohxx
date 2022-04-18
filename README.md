@@ -29,15 +29,16 @@ return dict
 
 | Program/Language | Proficiency | Experience |
 | :---: | :---: | :---: |
+| `MySQL` | <p align="center">&bigstar;&bigstar;&bigstar;&bigstar;</p> | 5 years | 
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | <p align="center">&bigstar;&bigstar;&bigstar;&bigstar;</p> | 3 Years |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | <p align="center">&bigstar;&bigstar;&bigstar;</p> | 5 Years |
-| `MySQL` | <p align="center">&bigstar;&bigstar;&bigstar;</p> | 5 years | 
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | <p align="center">&bigstar;&bigstar;&bigstar;</p> | 1.5 Years |
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 1 Year |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 2 Years | 
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 2 Years |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 1 Years |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | <p align="center">&bigstar;</p> | 1 Year |
-| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 1 Year |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | <p align="center">&bigstar;&bigstar;</p> | 1 Year |
+
 
 <br>
 <hr NOSHADE="noshade"/>
