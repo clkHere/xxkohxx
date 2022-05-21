@@ -1,15 +1,5 @@
-## <code>def Im_Cal(about_Me):</code>
-```python
-#I'm an autodidactic developer currently in the middle of: 
-
-about_Me['taking some courses'] = (['Google Data Analytics', 'IBM Data Science', 'Jovian'])
-about_Me['actively learning'] = (['Power BI', 'Hadoop', 'Spark'])
-about_Me['in pre-development'] = 'Educational 2D-Isometric Game'
-return dict
-
-```
-
-  
+![PersonalHeader](https://user-images.githubusercontent.com/67473001/169627860-57900eae-c11c-459e-b1f6-c1981e269e61.png)
+ 
 <hr/>
 
 #### I am always open to connecting and networking! Reach out anytime here: 
@@ -24,8 +14,7 @@ return dict
 [2]: https://www.linkedin.com/in/expCalvinKing
 [4]: https://discord.com/channels/329876958508875777/674090671279308802/814614859299160135
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471sv90ugammr3bmca7hqboonceetyzsdq8tu7kyl9&rid=giphy.gif&ct=g" width="412" height="512"/>
-
+<hr>
 
 | Program/Language | Proficiency | Experience |
 | :---: | :---: | :---: |
